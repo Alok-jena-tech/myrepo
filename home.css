@@ -5,4 +5,5 @@ body{
     color: blueviolet;
     background-color: aliceblue;
     padding: auto;
+    max-width: 10px;
 }
